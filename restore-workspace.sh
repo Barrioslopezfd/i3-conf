@@ -6,6 +6,3 @@ done
 
 (/usr/bin/x-terminal-emulator &) #1
 (/usr/bin/x-terminal-emulator &) #2
-(/usr/bin/google-chrome &) #3
-(/usr/bin/google-chrome &) #9
-(/usr/bin/Discord &) #10
